@@ -79,7 +79,7 @@ Student-Placement-Predictor/
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Student-Placement-Predictor.git
+git clone https://github.com/MADHURIBADDILA/Student-Placement-Predictor.git
 cd Student-Placement-Predictor
 
 ### Access the app
